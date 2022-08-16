@@ -61,7 +61,7 @@ REQUIREMENTS = [
     "configsuite",
     "ecl",
     "ecl2df",
-    "ert",
+    "ert >= 2.38.0b5",
     "fmu-tools",
     "matplotlib",
     "numpy",
